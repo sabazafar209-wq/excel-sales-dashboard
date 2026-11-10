@@ -1,4 +1,3 @@
-# excel-sales-dashboard
 # 📊 Sales Performance Dashboard (Excel)
 
 ## 📌 Project Overview
@@ -33,6 +32,8 @@ This dashboard helps management make **data-driven decisions** by transforming r
 ---
 
 ## 📂 Dataset
+
+**Data source:** simulated sales data (about 2,000 rows) created for practice. All figures and insights below describe this simulated data, not a real company.
 
 * ~2000 rows of sales data
 * Includes:
@@ -96,19 +97,19 @@ This dashboard helps management make **data-driven decisions** by transforming r
 
 ## 🖼️ Dashboard Preview
 
-![Dashboard Screenshot](screenshots/dashboard.png)
+![Excel sales performance dashboard](screenshots/sales-dashboard-overview.png)
 
 ---
 
 ## 📁 Project Structure
 
 ```
-Excel-Sales-Dashboard/
-│── dataset.xlsx
-│── dashboard.xlsx
-│── screenshots/
-│     └── dashboard.png
-│── README.md
+excel-sales-dashboard/
+├── sales_cleaned.xlsx                  cleaned dataset and dashboard workbook
+├── screenshots/
+│   └── sales-dashboard-overview.png    dashboard preview
+├── LICENSE
+└── README.md
 ```
 
 ---
@@ -124,11 +125,17 @@ This project demonstrates the ability to:
 
 ---
 
-## 📬 Contact
+## 👩‍💻 Author
 
-If you would like to connect or discuss opportunities:
+**Saba Zafar**
+Data Analyst & Learning Analytics Researcher
 
-* Whatsapp: +81-90-8583-9595
+* Portfolio: [sabazafar209-wq.github.io/sabazafar.github.io](https://sabazafar209-wq.github.io/sabazafar.github.io/)
+* ORCID: [0009-0002-3922-176X](https://orcid.org/0009-0002-3922-176X)
 * Email: sabazafar209@gmail.com
 
 ---
+
+## 📄 License
+
+Released under the [MIT License](LICENSE).
